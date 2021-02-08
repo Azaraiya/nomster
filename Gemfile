@@ -69,7 +69,7 @@ gem 'popper_js', '~> 1.11.1'
 gem 'bootstrap', '4.0.0.alpha6'
 gem "geocoder"
 gem "figaro"
-gem 'carrierwave', '~> 1.0'
+gem 'carrierwave', '~> 1.3'
 
 
 source 'https://rails-assets.org' do
